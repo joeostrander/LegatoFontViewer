@@ -1,0 +1,21 @@
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.AboutBox1.resources
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.Form1.resources
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.Properties.Resources.resources
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.csproj.GenerateResource.cache
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.csproj.CoreCompileInputs.cache
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LegatoFontViewer.exe.config
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LegatoFontViewer.exe
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\LegatoFontViewer.pdb
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.exe
+C:\Users\qojmo2\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LegatoFontViewer.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\bin\Debug\LegatoFontViewer.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\bin\Debug\LegatoFontViewer.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\bin\Debug\LegatoFontViewer.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.csprojAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.AboutBox1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.csproj.GenerateResource.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.csproj.CoreCompileInputs.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LegatoFontViewer\LegatoFontViewer\obj\Debug\LegatoFontViewer.pdb
